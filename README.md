@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=f39f2b&colorEnd=29f1f5&height=200&section=header&text=Welcome+to+my+GitHub%21&fontSize=30&fontColor=ffffff&animation=none&gradientDirection=diagonal&parallax=true&wavePosition=70&waveAmplitude=25&waveSpeed=30&flipWave=true&textAlignX=50&textAlignY=33&rtl=24&rtr=24&rbr=0&rbl=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </div>
+
 
 <h1 align="center">Hi there, I'm Trung Thanh Nguyen !  👋🐳 🤖</h1>
 
@@ -65,5 +66,5 @@ I'm always eager to learn new technologies, but I believe every tool should serv
 </div>
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=fda817&colorEnd=2efffc&height=120&section=footer&text=Thanks+for+visiting%21&fontSize=24&fontColor=ffffff&animation=none&gradientDirection=diagonal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=66" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" />
 </div>
